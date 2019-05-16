@@ -1,7 +1,7 @@
 {
   "name": "zonecfg",
   "version": "1.0.0",
-  "description": "node.js bindings to some of illumos/SmartOS's libzonecfg.h",
+  "description": "node.js bindings to some of illumos's libzonecfg",
   "main": "lib/zonecfg.js",
   "scripts": {
     "test": "make test"
