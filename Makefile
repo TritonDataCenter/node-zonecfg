@@ -11,7 +11,7 @@ all:
 
 .PHONY: clean
 clean:
-	rm -rf build node_modules
+	rm -rf build node_modules npm-debug.log
 
 .PHONY: test
 test:
