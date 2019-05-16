@@ -1,6 +1,3 @@
-- first working
-- XXXs, error handling
-- Doc API in README
 - "files" in package.json correct
 - test suite possible/easy with GZ handling?
 - publish
