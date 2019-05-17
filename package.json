@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/joyent/node-zonecfg.git"
   },
+  "files": [
+    "binding.gyp",
+    "lib",
+    "src"
+  ],
   "keywords": [
     "smartos",
     "illumos",
@@ -20,5 +25,8 @@
   "license": "MPL-2.0",
   "engines": {
     "node": ">=6.x"
+  },
+  "devDependencies": {
+    "tap": "12.x"
   }
 }

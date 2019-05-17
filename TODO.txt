@@ -1,4 +1,3 @@
-- "files" in package.json correct
-- test suite possible/easy with GZ handling?
 - publish
-- usage in amon-agent
+- getZoneAttributes for amon-relay
+- key for node-zutil
